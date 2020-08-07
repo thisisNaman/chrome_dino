@@ -11,7 +11,8 @@
 1. pyautogui
 2. PIL
 
-pip install pyautogui
+pip install pyautogui 
+
 pip install pillow
 
 # Caution:
