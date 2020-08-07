@@ -32,16 +32,3 @@ while True:
     image=ImageGrab.grab().convert('L')
     data=image.load() 
     isCollision(data)
-    '''
-    #for birds
-    for i in range(690, 730):
-        for j in range(280,305):
-            data[i,j]=171
-    #for cactus
-    for i in range(690, 740):
-        for j in range(310,340):
-            data[i,j]=0
-    image.show()
-    break
-    '''
-
