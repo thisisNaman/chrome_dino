@@ -11,6 +11,9 @@
 1. pyautogui
 2. PIL
 
+pip install pyautogui
+pip install pillow
+
 # Caution:
 The coordinates are according to my device screen.
 You might need to change them according to your screen size.
