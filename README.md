@@ -1,4 +1,4 @@
-# chrome_dino
+# Chrome Dino Bot
 
 ## Chrome_Dino game automated :)
 
@@ -6,14 +6,10 @@
 
 1. Python 3
 
-## The following python modules are also needed to be downloaded :
+## Dependencies for Python :
 
-1. pyautogui
-2. PIL
-
-pip install pyautogui 
-
-pip install pillow
+1. pyautogui (Install using pip install pyautogui )
+2. PIL (Install using pip install pillow)
 
 # Caution:
 The coordinates are according to my device screen.
